@@ -22,7 +22,7 @@ r#"{"type":"reset"}"#;
 
 //message to send when daemon closes
 const ENDMSG: &'static str =
-r#"{"type":"closing")"#;
+r#"{"type":"closing"}"#;
 
 
 //
